@@ -1,5 +1,4 @@
 # kullanicidan alinan 10 luk tabandaki sayiyi ikilik tabana ve daha sonra gray koduna donusturen program
-
 dec=input("Onluk tabanda bir sayi giriniz\n")
 def decimaltobinarytogray(dec): 
 	binary=[]
